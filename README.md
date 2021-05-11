@@ -1,1 +1,1 @@
-Implementation of some Machine Learning algorithms in PyTorch
+#Implementation of some Machine Learning algorithms in PyTorch.
